@@ -1,0 +1,64 @@
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_V1.csprojAssemblyReference.cache
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_v1.oracle_T.resources
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_v1.Properties.Resources.resources
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_V1.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_V1.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Oracle_test_v1.exe.config
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Oracle_test_v1.exe
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Oracle_test_v1.pdb
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_V1.csproj.CopyComplete
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_v1.exe
+C:\Users\KB\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Oracle_test_v1.pdb
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csprojAssemblyReference.cache
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.Properties.Resources.resources
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.exe
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.pdb
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\bin\Debug\Oracle_test_v1.exe.config
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\bin\Debug\Oracle_test_v1.exe
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\bin\Debug\Oracle_test_v1.pdb
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CopyComplete
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.LoginSystem.resources
+C:\Users\KB\source\repos\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.MemberTable.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_V1.csprojAssemblyReference.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_v1.LoginSystem.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_v1.MemberTable.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_v1.Properties.Resources.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_V1.csproj.GenerateResource.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_v1.exe
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_v1.pdb
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\bin\Debug\Oracle_test_v1.exe.config
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\bin\Debug\Oracle_test_v1.exe
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\bin\Debug\Oracle_test_v1.pdb
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Documents\MYBOX\pc_mgr - 복사본\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CopyComplete
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\bin\Debug\Oracle_test_v1.exe.config
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\bin\Debug\Oracle_test_v1.exe
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\bin\Debug\Oracle_test_v1.pdb
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csprojAssemblyReference.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.LoginSystem.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.MemberTable.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.Properties.Resources.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csproj.GenerateResource.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CopyComplete
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.exe
+C:\Users\KB\Documents\MYBOX\pc_mgr\pc_mgr\obj\Debug\Oracle_test_v1.pdb
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\bin\Debug\Oracle_test_v1.exe.config
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\bin\Debug\Oracle_test_v1.exe
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\bin\Debug\Oracle_test_v1.pdb
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_V1.csprojAssemblyReference.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_v1.LoginSystem.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_v1.MemberTable.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_v1.Properties.Resources.resources
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_V1.csproj.GenerateResource.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_V1.csproj.CopyComplete
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_v1.exe
+C:\Users\KB\Documents\MYBOX\pc_mgr 0608\pc_mgr\obj\Debug\Oracle_test_v1.pdb
